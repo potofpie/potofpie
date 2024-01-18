@@ -6,7 +6,7 @@
 
 ### 👀 Projects worth a click!
 - https://controllerlab.io
-- https://fire-words-e41fa.web.app
+- https://fire-words.bobby-christopher.com
 
 
 
