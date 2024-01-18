@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bobby.
-- 🐵 I’m currently building cool marketing products at [shopmonkey](https://www.shopmonkey.io/).
+- 🐵 I’m currently building sick marketing products at [shopmonkey](https://www.shopmonkey.io/)!
 - 🏁 Hope to FINISH more perosnal projects this year!
 - 📫 How to reach me b.christopher.3rd@gmail.com.
 
