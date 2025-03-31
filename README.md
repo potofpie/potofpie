@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bobby.
-- 🐵 I’m currently building sick marketing products at [shopmonkey](https://www.shopmonkey.io/)!
+- 🐵 I’m currently building a cloud plaform got ai agents at [agentuity](agentuity.com)!
 - 🏁 Hope to FINISH more perosnal projects this year! [bobby-christopher.com](https://bobby-christopher.com)
 - 📫 How to reach me b.christopher.3rd@gmail.com.
 
