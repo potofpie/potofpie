@@ -7,6 +7,7 @@
 ### 👀 Projects worth a click!
 - https://controllerlab.io
 - https://fire-words.bobby-christopher.com
+- https://potofpie.itch.io/trick-or-terror
 
 
 
